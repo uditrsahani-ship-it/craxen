@@ -1,0 +1,59 @@
+#verification,#error
+{
+    text-align: center;
+}
+#verification h1, #error h1
+{
+    font-size: 38px;
+    font-weight: bold;
+    padding-bottom: 25px;
+}
+#verification h5, #error h5
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+#verification .contact
+{
+    margin: 30px;
+
+}
+#verification .contact label
+{
+    font-size: 24px;
+    font-weight: bold;
+}
+#verification .contact input
+{
+   border:2px solid lightgray;
+   width:90%;
+   height:50px;
+}
+#verification .contact input:focus
+{
+    outline: none;
+}
+#verification .button button,
+{
+   /* background-color: #5841D8; */
+   color:white;
+   font-size: 20px;
+   font-weight: bold;
+   padding:10px 25px;
+}
+
+#error .contact label
+{
+    font-size: 30px;
+    font-weight: bold;
+    padding:25px;
+}
+#error .button a
+{
+    background-color: cornflowerblue;
+    color:white;
+    font-size: 28px;
+    font-weight: bold;
+    padding:15px 30px;
+    border-radius: 5px;
+}
